@@ -1,2 +1,9 @@
 # hello-world
-Just as you suggested.
+
+Hi everyone,
+
+I am just an ordinary guy. I enjoy meeting people and learning things.
+I have just one solid addiction ... coffee.
+
+
+
